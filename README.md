@@ -99,7 +99,7 @@ BranchyNet-Replication/
 │   │
 │   └── config.py                    # Number of exits, entropy thresholds, loss weights
 │
-├── diagrams/
+├── images/
 │   └── figmix.jpg                 
 │
 ├── requirements.txt                
